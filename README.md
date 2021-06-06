@@ -9,3 +9,7 @@ Simple Ubuntu indicator applet for monitoring CPU usage (Gtk-based)
 - Shows red block with size of CPU load
 - Supports arbitrary update frequency
 - Supports smoothing with moving average filter
+
+# Operating systems support
+
+Ubuntu (tested on 20)
