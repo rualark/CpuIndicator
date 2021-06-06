@@ -2,7 +2,7 @@
 
 Simple Ubuntu indicator applet for monitoring CPU usage (Gtk-based)
 
-https://i.imgur.com/zEMjSFp.png
+<img src=https://i.imgur.com/zEMjSFp.png>
 
 # Features
 
